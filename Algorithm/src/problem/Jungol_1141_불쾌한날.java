@@ -11,9 +11,8 @@ public class Jungol_1141_불쾌한날 {
 
     public static void main(String[] args) throws IOException {
 
-    	//System.setIn(new FileInputStream("src/problem/test/jungol_1141.txt"));
+    	// System.setIn(new FileInputStream("src/problem/test/jungol_1141.txt"));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
 
         int N = Integer.parseInt(br.readLine()); // 소의 수
 
