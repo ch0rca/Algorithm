@@ -13,7 +13,7 @@ public class BOJ_1158_요세푸스 {
 
     public static void main(String[] args) throws IOException {
     	
-    	System.setIn(new FileInputStream("src/problem/test/boj_1158.txt"));
+    	//System.setIn(new FileInputStream("src/problem/test/boj_1158.txt"));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
 
